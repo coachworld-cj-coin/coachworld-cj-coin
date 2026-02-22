@@ -20,7 +20,7 @@ Yes. Liquidity provided by [Coach Joel](https://x.com/C_Interlinklabs) is locked
 
 <summary>Can the owner mint tokens?</summary>
 
-Yes — minting is owner-only and will be used only for holder rewards, airdrops, and utilities. This is transparent and stated publicly.
+Yes, minting is owner-only and will be used only for holder rewards, airdrops, and utilities. This is transparent and stated publicly.
 
 </details>
 
@@ -28,7 +28,7 @@ Yes — minting is owner-only and will be used only for holder rewards, airdrops
 
 <summary>Is ownership renounced?</summary>
 
-No — ownership is retained by [Coach Joel](https://x.com/C_Interlinklabs) to manage rewards and utilities. We are transparent about that.
+No, ownership is retained by [Coach Joel](https://x.com/C_Interlinklabs) to manage rewards and utilities. We are transparent about that.
 
 </details>
 
@@ -39,7 +39,7 @@ No — ownership is retained by [Coach Joel](https://x.com/C_Interlinklabs) to m
 Using [**ITLX Super Wallet**](https://coach-joel.gitbook.io/coach-joel/~/revisions/r9ImNXKyZy8Ih3971Y1T/readme/how-can-i-buy-usdcj)
 
 Step by step guide here:\
-https://coach-joel.gitbook.io/coach-joel/\~/revisions/r9ImNXKyZy8Ih3971Y1T/readme/how-can-i-buy-usdcj
+[https://coach-joel.gitbook.io/coach-joel/\~/revisions/r9ImNXKyZy8Ih3971Y1T/readme/how-can-i-buy-usdcj](https://coach-joel.gitbook.io/coach-joel/~/revisions/r9ImNXKyZy8Ih3971Y1T/readme/how-can-i-buy-usdcj)
 
 </details>
 
@@ -50,5 +50,3 @@ https://coach-joel.gitbook.io/coach-joel/\~/revisions/r9ImNXKyZy8Ih3971Y1T/readm
 BscScan contract: [https://bscscan.com/token/0x9ECEfef5d5B5b0aCF2467393e7b5A6c7c501c6F6](https://bscscan.com/token/0x9ECEfef5d5B5b0aCF2467393e7b5A6c7c501c6F6)
 
 </details>
-
-Last updated 5 days ago
